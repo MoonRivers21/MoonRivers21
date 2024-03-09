@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoonRivers21
+- 👋 Hi, I’m Nick a Full Stack Software Developer
 - 👀 I’m interested in Latest Tech Stack like React and Vue Js
 - 🌱 I’m currently learning React and VueJs
 - 📫 You can reach me via email: nickz.022190@gmail.com
